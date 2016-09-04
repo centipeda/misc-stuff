@@ -1,2 +1,2 @@
 # misc-stuff
-Miscellaneous stuff, as the title says.
+Miscellaneous stuff.
